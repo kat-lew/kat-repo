@@ -1,5 +1,5 @@
 {
-  "name": "kat-repo",
+  "name": "kat-app",
   "version": "1.0.0",
   "org": "my-org",
   "description": "Code pattern for starting a typescript-based microservice",
